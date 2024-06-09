@@ -1,15 +1,5 @@
 ## Visualise and Predict Property Prices in York, England ##
 
-# Install required libraries
-
-# install.packages("shiny")
-# install.packages("ggplot2")
-# install.packages("dplyr")
-# install.packages("tidyverse")
-# install.packages("mgcv")
-# install.packages("viridis")
-# install.packages("scales")
-
 # Load required libraries
 library(shiny)
 library(ggplot2)
