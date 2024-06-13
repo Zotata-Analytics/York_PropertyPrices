@@ -1,0 +1,6 @@
+This folder contains two screenshots of the  York_PropertyPrices R shiny app.
+
+- Tab 1 alllows the user to visualise variable relationships by selecting an X-axis and Y-axis variable, along with filtering the Postocode.
+
+- Tab 2 allows the user to predict a house price, based on information on the Year, Floor Area, Energy Efficiency and Postcode.
+  The estimated house price is displayed in British pounds, with a graph to visualise the house price over all yearly data available.
